@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Chainlit runtime artifacts and temporary directories
+chainlit.db
+chainlit.log
+.chainlit/
+chainlit_uploads/
+.files/
+chainlit.md
+
+# vs code
+.vacode
